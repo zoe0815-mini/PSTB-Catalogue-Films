@@ -1,0 +1,12 @@
+# Node / Dépendances
+node_modules/
+npm-debug.log
+
+# Variables d'environnement (Sécurité !)
+.env
+.env.local
+
+# IDEs et OS
+.vscode/
+.idea/
+.DS_Store
